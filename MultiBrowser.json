@@ -1,5 +1,6 @@
 {
-  "latestVersionCode": 2,
-  "apkUrl": "https://example.com/yourapp-latest.apk",
+  "latestVersionCode": 3,
+  "apkUrl": "https://github.com/ztncode/ztnproject/tree/main/MultiBrowser",
   "message": "Ada update baru dengan fitur tambahan."
+
 }
